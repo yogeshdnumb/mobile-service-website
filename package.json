@@ -9,11 +9,18 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "prettier": "^3.5.0",
+    "prettier-plugin-tailwindcss": "^0.6.11",
     "typescript": "~5.7.2",
     "vite": "^6.1.0"
   },
   "dependencies": {
+    "@fontsource-variable/oswald": "^5.1.1",
+    "@fontsource/source-sans-pro": "^5.1.0",
     "@tailwindcss/vite": "^4.0.6",
-    "tailwindcss": "^4.0.6"
+    "embla-carousel": "^8.5.2",
+    "embla-carousel-autoplay": "^8.5.2",
+    "tailwindcss": "^4.0.6",
+    "tiny-swiper": "^2.2.0"
   }
 }
